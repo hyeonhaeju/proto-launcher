@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/Users/User/Desktop/%EB%82%B4%ED%8C%8C%EC%9D%BC/%EB%9F%B0%EC%B2%98%EC%A0%9C%EC%9E%91/Proto-setup/NebulaRoot/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "프로토타입 런처 (1.21.8)",
+    "description": "프로토타입 테스트 런처",
+    "icon": "https://raw.githubusercontent.com/hyeonhaeju/proto-launcher/main/launcher/proto_logo.png",
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "fabric": {
+    "version": "0.18.4"
+  },
+  "untrackedFiles": []
+}
